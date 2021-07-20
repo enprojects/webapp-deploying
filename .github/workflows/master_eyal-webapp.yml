@@ -19,7 +19,7 @@ jobs:
     - name: Set up .NET Core
       uses: actions/setup-dotnet@v1
       with:
-        dotnet-version: '5.0.x'
+        dotnet-version: '3.1.301'
         include-prerelease: true
 
     - name: Build with dotnet
@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'eyal-webapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_9725ffe878ad4b16aec0a8c38e8f1592 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_71f859a2a8dc496aa01f9b1147608f2b }}
         package: .
