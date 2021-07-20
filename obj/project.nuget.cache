@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FrskBA6M6PVRkMSoItmV8W2U5fx0LueVTt5T5IZKj9+HVbd1J+0qELUhW7caY1XTujr+JgfRnjh7pDNiZ83fdQ==",
+  "dgSpecHash": "h6/LzkrWvnNonN0ZTGkwnkq9b/SAI0+hP6DEUhpjh8phUqR78SKKGuufjJxesFHTul9F+aB6hBtscHtyLFHVqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eyaln\\Desktop\\webapp-deploying\\WebAppSln\\WebAppSln.csproj",
+  "projectFilePath": "C:\\Users\\eyaln\\Desktop\\WebAppSln\\WebAppSln.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eyaln\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\eyaln\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

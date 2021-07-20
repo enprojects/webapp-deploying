@@ -592,11 +592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eyaln\\Desktop\\webapp-deploying\\WebAppSln\\WebAppSln.csproj",
+      "projectUniqueName": "C:\\Users\\eyaln\\Desktop\\WebAppSln\\WebAppSln.csproj",
       "projectName": "WebAppSln",
-      "projectPath": "C:\\Users\\eyaln\\Desktop\\webapp-deploying\\WebAppSln\\WebAppSln.csproj",
+      "projectPath": "C:\\Users\\eyaln\\Desktop\\WebAppSln\\WebAppSln.csproj",
       "packagesPath": "C:\\Users\\eyaln\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eyaln\\Desktop\\webapp-deploying\\WebAppSln\\obj\\",
+      "outputPath": "C:\\Users\\eyaln\\Desktop\\WebAppSln\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
